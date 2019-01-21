@@ -1,2 +1,2 @@
 # js_algorithms
-My JS classic algorithms realizations
+My JS classic algorithms implementations
